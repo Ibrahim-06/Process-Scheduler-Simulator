@@ -33,9 +33,8 @@ https://github.com/user-attachments/assets/06a23357-a780-45b0-b907-83d6debda168
 
 ## 🧪 How to Run
 
-bash
 # Clone the repo
-git clone https://github.com/your-username/Process-Scheduler-Simulator.git
+git clone https://github.com/ibrahim-06/Process-Scheduler-Simulator.git
 cd Process-Scheduler-Simulator
 
 # Make sure you have Python 3 installed
